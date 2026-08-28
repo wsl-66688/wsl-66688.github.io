@@ -26,11 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "王树岭"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "郑州大学通信工程硕士，深耕802.11bnMAPC深度学习强化学习，大模型Agent"
+  location         : "河南郑州"
+  employer         : "郑州大学"
+  email            : "电子邮件" 
 
   # Academic websites
   academia         : # URL
