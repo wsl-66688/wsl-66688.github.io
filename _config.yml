@@ -22,7 +22,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://wsl-66688.github.io/images/profile.png"
+  avatar           : "images/profile.png"
   name             : "王树岭"
   pronouns         :  
   bio              : "郑州大学电气与信息工程学院通信工程硕士，深耕802.11bn，强化学习，机器学习，MAPC解决复杂环境多设备干扰问题"
