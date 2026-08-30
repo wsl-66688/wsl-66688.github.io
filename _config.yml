@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "王树岭"
   pronouns         : # example: "she/her"  
   bio              : "郑州大学通信工程硕士，深耕802.11bn，机器学习强化学习，调用大模型Agent"
